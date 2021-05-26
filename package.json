@@ -8,7 +8,7 @@
   "dependencies": {
     "performance-now": "^2.1.0",
     "workerjs": "^0.1.1",
-    "ws": "^3.0.0",
+    "ws": "^7.4.6",
     "xmlhttprequest": "^1.8.0",
     "yargs": "^8.0.2"
   },
